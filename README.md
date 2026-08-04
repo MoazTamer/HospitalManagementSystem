@@ -101,9 +101,3 @@ Moaz Tamer
 GitHub: @MoazTamer
 LinkedIn: moaz-tamer-8365591bb/
 Email: moaztamer390@gmail.com
-
-
-<div align="center">
-⭐ Star this repository if you find it helpful! ⭐
-Made with ❤️ using ASP.NET Core
-</div>
