@@ -1,10 +1,5 @@
 🏥 Hospital Management System API
 <div align="center">
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
 A comprehensive Hospital Management System built with ASP.NET Core Web API
 Features • Architecture • Installation • Documentation • API Reference
 </div>
